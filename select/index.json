@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "bug",
+  "base_artist": "Ivy to Fraudulent Game",
+  "createdAt": "2026-01-07T00:31:43.676374Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let's Talk About Sex (Luv Bug remix)",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/01_Let's_Talk_About_Sex_(Luv_Bug_remix)_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bug Rain",
+      "artist": "Looper",
+      "has_synced": false,
+      "path": "select/02_Bug_Rain_Looper.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spark Bug",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/03_Spark_Bug_Sou.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Bug",
+      "artist": "Magnetic Man",
+      "has_synced": false,
+      "path": "select/04_The_Bug_Magnetic_Man.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Château (Golden Bug Remix)",
+      "artist": "Housse de Racket",
+      "has_synced": false,
+      "path": "select/05_Château_(Golden_Bug_Remix)_Housse_de_Racket.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Can Talk (Golden Bug Remix)",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/06_I_Can_Talk_(Golden_Bug_Remix)_Two_Door_Cinema_Club.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dancers Bug",
+      "artist": "SupaRed",
+      "has_synced": false,
+      "path": "select/07_Dancers_Bug_SupaRed.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bug",
+      "artist": "Alex G",
+      "has_synced": true,
+      "path": "select/08_Bug_Alex_G.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bug Powder Dust (Chemical Brothers mix)",
+      "artist": "Bomb the Bass",
+      "has_synced": false,
+      "path": "select/09_Bug_Powder_Dust_(Chemical_Brothers_mix)_Bomb_the_Bass.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Big Bug",
+      "artist": "Hugh Cornwell & Robert Williams",
+      "has_synced": false,
+      "path": "select/10_Big_Bug_Hugh_Cornwell_&_Robert_Williams.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bug Powder Dust (The Chemical Brothers Remix)",
+      "artist": "Bomb The Bass",
+      "has_synced": false,
+      "path": "select/11_Bug_Powder_Dust_(The_Chemical_Brothers_Remix)_Bomb_The_Bass.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Let Us Bug Ya",
+      "artist": "Andy Partridge",
+      "has_synced": false,
+      "path": "select/12_Don't_Let_Us_Bug_Ya_Andy_Partridge.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don’t Let Us Bug Ya",
+      "artist": "Andy Partridge",
+      "has_synced": false,
+      "path": "select/13_Don’t_Let_Us_Bug_Ya_Andy_Partridge.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Full Bug",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/14_The_Full_Bug_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Full Bug",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/15_The_Full_Bug_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sikh In a Baja VW Bug",
+      "artist": "Grandaddy",
+      "has_synced": true,
+      "path": "select/16_Sikh_In_a_Baja_VW_Bug_Grandaddy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bug",
+      "artist": "Ivy to Fraudulent Game",
+      "has_synced": false,
+      "path": "select/pl_01_bug_Ivy_to_Fraudulent_Game.txt"
+    }
+  ]
+}
